@@ -11,4 +11,4 @@ partial solutions, backtracking when a constraint violation occurs. The efficien
 backtracking algorithms in solving the N-Queens problem is discussed, along with 
 optimizations and variations proposed to improve its performance.
 
-      ![image](https://github.com/Michael-2003/Advancements-in-Constraint-Satisfaction-Techniques-for-Solving-the-N-Queens/assets/107130078/193aa481-af52-44d4-9a6c-8611e0d13c7f)
+![image](https://github.com/Michael-2003/Advancements-in-Constraint-Satisfaction-Techniques-for-Solving-the-N-Queens/assets/107130078/193aa481-af52-44d4-9a6c-8611e0d13c7f)
